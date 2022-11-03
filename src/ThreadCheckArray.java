@@ -9,7 +9,7 @@ public class ThreadCheckArray implements Runnable
 	int b;
 	/**
 	 * 
-	 * @param sd is for the shareddata
+	 * @param sd is for the SharedData
 	 */
 	public ThreadCheckArray(SharedData sd) 
 	{
